@@ -33,5 +33,6 @@ commit changes
 $ git commit -m "message"
 
 
-git -> 
+clone git repo ->
+$ git clone repo-url 
 
