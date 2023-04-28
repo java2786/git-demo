@@ -36,3 +36,4 @@ $ git commit -m "message"
 clone git repo ->
 $ git clone repo-url 
 
+create gitignore file
