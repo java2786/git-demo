@@ -1,12 +1,12 @@
 # Install git
 
 <h3>configure git</h3>
-$ git config --global user.name "arun kumar"
-$ git config --global user.email "arun.kumar@iiht.co.in"
+$ git config --global user.name "arun kumar"  
+$ git config --global user.email "arun.kumar@iiht.co.in"  
 
 ## see configs
-$ git config --global user.name
-$ git config --global user.email
+$ git config --global user.name  
+$ git config --global user.email  
 
 
 ## check git version
