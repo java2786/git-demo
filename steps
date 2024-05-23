@@ -1,0 +1,13 @@
+User: mca2-at-683613034915
+Pwd: drH/6vxbCKnVUCnoSKb1A5SkG5z9jQ45LlWohZ1/0hQYLN9vD0BLNFu+NVs=
+
+git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/mca-repo
+enter username pwd
+
+cd mca-repo
+create file
+git add .
+git commit -m "some messge"
+git push
+enter username pwd
+
